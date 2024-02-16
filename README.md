@@ -14,13 +14,13 @@ Projeyi çalıştırmak için Rust programlama dilinin yüklü olması gerekmekt
 
 1. Bu depoyu yerel makinenize klonlayın:
 
-git clone <repository_url>
+'git clone <repository_url>'
 
 2. Proje dizinine gidin:
 
-cd rust_library_project
+'cd rust_library_project'
 
 3. Projeyi derleyip çalıştırın:
 
-cargo run
+'cargo run'
 
